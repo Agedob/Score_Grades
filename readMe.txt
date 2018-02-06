@@ -1,4 +1,6 @@
-Write a function that generates ten scores between 60 and 100. Each time a score is generated, your function should display what the grade is for a particular score. Here is the grade table:
+Write a function that generates ten scores between 60 and 100. 
+Each time a score is generated, your function should display what
+ the grade is for a particular score. Here is the grade table:
 
 Score: 60 - 69; Grade - D
 Score: 70 - 79; Grade - C
